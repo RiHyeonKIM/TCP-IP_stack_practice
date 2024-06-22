@@ -1,3 +1,4 @@
+
 #ifndef __GRAPH__
 #define __GRAPH__
 
@@ -88,3 +89,4 @@ void dump_interface(interface_t *interface);
 
 
 #endif /* __NW_GRAPH_ */
+
