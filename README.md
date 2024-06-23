@@ -8,3 +8,7 @@
 
 
 # Network Graph Complete
+![networking2](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/e2ffb591-c9f4-4d10-bf06-e9a3bc7c19d5)
+
+
+![networking1](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/3e8c7d51-3701-4cfc-883b-a50d5373d574)
