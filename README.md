@@ -12,3 +12,11 @@
 
 
 ![networking1](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/3e8c7d51-3701-4cfc-883b-a50d5373d574)
+
+
+# 03. CLI Intergration Network Graph Complete
+![1](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/0053c612-dd67-4667-acdc-7c6c2c42b24d)
+
+
+
+![2](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/c67afaea-0eff-4b4e-8106-8a54c30d2905)
