@@ -20,3 +20,12 @@
 
 
 ![2](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/c67afaea-0eff-4b4e-8106-8a54c30d2905)
+
+
+# 04 Layer2 Basic ARP
+![1](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/c6a61b51-c3c7-4323-8f9a-52b1775b01de)
+
+![2](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/44656e5d-484f-4356-b832-97b817badc2f)
+
+
+![3](https://github.com/dlgus8648/TCP-IP_stack_practice/assets/139437162/ee32f10c-faff-42eb-aede-5e99bbc849cd)
